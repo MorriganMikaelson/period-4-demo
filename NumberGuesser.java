@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * A basic Number Guesser game.
+ * A basic Number Guesser game. If succssessful you will recieve 00 status
  *
  * @author David Herring
  * @version 3/11/19
